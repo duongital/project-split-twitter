@@ -1,0 +1,16 @@
+.Status {
+  margin-bottom: 5px
+}
+
+.MyButton {
+  padding: 10px 40px;
+  float: right
+}
+
+.ClearBoth {
+  clear: both
+}
+
+.MyMessage {
+  float: left
+}

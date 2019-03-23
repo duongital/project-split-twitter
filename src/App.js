@@ -70,7 +70,6 @@ class App extends Component {
     } else {
       alert("Please input something in the field")
     }
-
   }
 
   render() {
@@ -105,7 +104,6 @@ class App extends Component {
               <button className="btn btn-primary MyButton">Post</button>
               <p className="MyMessage">Numbers of characters: {this.state.post.length}</p>
               <p className="ClearBoth"></p>
-              
               {checkOver50}
             </form>
             <p></p>
